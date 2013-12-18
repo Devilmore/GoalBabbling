@@ -1,0 +1,203 @@
+10
+
+dir
+0
+svn+ssh://andreas.barthen@192.168.5.11/var/svn_repository/mrolf/code/goalbabbling/ode/ou
+svn+ssh://andreas.barthen@192.168.5.11/var/svn_repository/mrolf
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+63ebc55b-62de-4c77-b2e0-08d4377d2e04
+
+config.log
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+config.status
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+LICENSE-LESSER.TXT
+file
+
+
+
+add
+
+LICENSE-ZLIB.TXT
+file
+
+
+
+add
+
+build
+dir
+
+
+
+add
+
+LICENSE.TXT
+file
+
+
+
+add
+
+configure.ac
+file
+
+
+
+add
+
+libtool
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CHANGELOG.TXT
+file
+
+
+
+add
+
+LICENSE-BSD.TXT
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+README.TXT
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+bootstrap
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+aclocal.m4
+file
+
+
+
+add
+
+test
+dir
+
+
+
+add
+
+configure
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Makefile.in
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+INSTALL.TXT
+file
+
+
+
+add
+

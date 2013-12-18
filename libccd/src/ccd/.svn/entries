@@ -1,0 +1,119 @@
+10
+
+dir
+0
+svn+ssh://andreas.barthen@192.168.5.11/var/svn_repository/mrolf/code/goalbabbling/ode/libccd/src/ccd
+svn+ssh://andreas.barthen@192.168.5.11/var/svn_repository/mrolf
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+63ebc55b-62de-4c77-b2e0-08d4377d2e04
+
+support.h
+file
+
+
+
+add
+
+dbg.h
+file
+
+
+
+add
+
+vec3.h
+file
+
+
+
+add
+
+simplex.h
+file
+
+
+
+add
+
+stamp-h1
+file
+
+
+
+add
+
+config.h
+file
+
+
+
+add
+
+ccd.h
+file
+
+
+
+add
+
+compiler.h
+file
+
+
+
+add
+
+alloc.h
+file
+
+
+
+add
+
+quat.h
+file
+
+
+
+add
+
+config.h.in
+file
+
+
+
+add
+
+polytope.h
+file
+
+
+
+add
+
+list.h
+file
+
+
+
+add
+
